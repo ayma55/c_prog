@@ -5,7 +5,7 @@
 
 
 // function declartion
-
+int func1(int a,int b);
 
 
 #endif //end of header file
