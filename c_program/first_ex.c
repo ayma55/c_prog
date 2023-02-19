@@ -17,6 +17,7 @@ int main()
     printf("enter nbr2: ");
     fflush(stdout); // this
     scanf("%d",&b);
-    printf("sum of 2 numbers= %d ",func1(a,b));
+    sum = func1(a,b);
+    printf("sum of 2 numbers= %d ",sum);
     return 0;
 }
